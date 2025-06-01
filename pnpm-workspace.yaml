@@ -1,0 +1,3 @@
+onlyBuiltDependencies:
+  - '@tailwindcss/oxide'
+  - react-vertical-timeline-component
