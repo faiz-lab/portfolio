@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
         </div>
       </div>
 
-      <div className="absolute top-0 left-0 w-full h-full z-[-1]">
+      <div className="absolute top-0 left-0 w-full h-full z-0 pointer-events-none">
         <ComputersCanvas />
       </div>
 
