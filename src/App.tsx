@@ -17,7 +17,7 @@ const App = () => {
     <BrowserRouter>
       <div className="relative z-0 bg-primary min-h-screen text-white">
         {/* 背景图层 */}
-        <div className="bg-[--bg-hero] bg-cover bg-no-repeat bg-center">
+        <div className="bg-[url(/src/assets/herobg.png)] bg-cover bg-no-repeat bg-center">
           <Navbar />
           <Hero />
         </div>
